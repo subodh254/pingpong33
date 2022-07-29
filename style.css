@@ -1,0 +1,22 @@
+body
+{
+background-position: center;
+background-size: cover;
+
+}
+.heading{
+    padding-left:100px;
+    text-align: center;
+    background-color: red;
+    bottom: 20px;
+}
+.header{
+    float: left;
+}
+.modal-dialog{
+   width: 90%; 
+}
+.canvas{
+    background-color : red;
+    
+}
